@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/01/">
-    <Project Path="IsNumberOrNot/IsNumberOddOrNot.csproj" />
+    <Project Path="D:/Usuario/Documents/ITM/Semestre IV/Estructura de Datos/Projects/LogicConcepts2025-1/LogicConcepts2025-1/IsNumberOrNot/IsNumberOddOrNot.csproj" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="D:/Usuario/Documents/ITM/Semestre IV/Estructura de Datos/Projects/LogicConcepts2025-1/LogicConcepts2025-1/Shared/Shared.csproj" Id="455e0af7-2433-47dc-83d3-3bff65a04d06" />
   </Folder>
 </Solution>
