@@ -1,4 +1,4 @@
-﻿
+﻿using Shared;
 
 var answer = string.Empty;
 var options = new List<string> { "s", "n" };

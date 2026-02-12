@@ -3,6 +3,6 @@
     <Project Path="D:/Usuario/Documents/ITM/Semestre IV/Estructura de Datos/Projects/LogicConcepts2025-1/LogicConcepts2025-1/IsNumberOrNot/IsNumberOddOrNot.csproj" />
   </Folder>
   <Folder Name="/Shared/">
-    <Project Path="D:/Usuario/Documents/ITM/Semestre IV/Estructura de Datos/Projects/LogicConcepts2025-1/LogicConcepts2025-1/Shared/Shared.csproj" Id="455e0af7-2433-47dc-83d3-3bff65a04d06" />
+    <Project Path="Shared/Shared/Shared.csproj" Id="edcc45d4-a5f2-4e5b-9a71-8c8c2391f7fc" />
   </Folder>
 </Solution>
