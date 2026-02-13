@@ -6,8 +6,8 @@ var options = new List<string> { "s", "n" };
 do
 {   /*
     Console.Write("Ingrese número entero o la palabra 'Salir' para salir: ");
-    numberString = Console.ReadLine(); //Cuando colocamos una var se toma como un string, no como un número. "10"
-    //var numberInt = int.Parse(numberString!); //Con la función Parse convertimos el número de String a número. 10
+    numberString = Console.ReadLine(); //When we place a variable, it is treated as a string, not as a number. "10"
+    //var numberInt = int.Parse(numberString!); //Using the Parse function, we convert the String number to a number. 10
     if(numberString!.ToLower() == "salir")
     {
         continue;
@@ -42,4 +42,5 @@ do
 } while (answer!.Equals("s", StringComparison.CurrentCultureIgnoreCase));
 
 Console.WriteLine("Game Over");
-    
+
+//The dollar sign is interpolation
