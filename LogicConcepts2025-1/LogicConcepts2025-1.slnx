@@ -17,6 +17,9 @@
   <Folder Name="/06/">
     <Project Path="SimplePlayroll/SimplePlayroll.csproj" Id="313235c1-88c1-40dd-a91c-cfa6f286bccc" />
   </Folder>
+  <Folder Name="/07/">
+    <Project Path="Discount/Discount.csproj" Id="f075d80b-227a-4ab1-9d64-1997ecb71eac" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared/Shared.csproj" Id="edcc45d4-a5f2-4e5b-9a71-8c8c2391f7fc" />
   </Folder>

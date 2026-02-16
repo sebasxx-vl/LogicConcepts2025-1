@@ -18,7 +18,7 @@ do
     else
     {
         Console.WriteLine($"Nombre: {name}");
-        Console.WriteLine($"Salario: {salary:C2}");
+        Console.WriteLine($"Salario: {salary: C2}");
     }
 
 
