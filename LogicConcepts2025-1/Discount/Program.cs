@@ -5,7 +5,7 @@ var options = new List<string> { "s", "n" };
 do
 {
     var desks = ConsoleExtension.GetInt("Ingrese la cantidad de escritorios: ");
-    var valueToPay = CalculateValue(desks);
+    var valueToPay = CalculateValue(desks) ;
     Console.WriteLine($"El valor a pagar es: {valueToPay:C2}");
  
     do
