@@ -29,6 +29,9 @@
   <Folder Name="/10/">
     <Project Path="SucesoStore/SucesoStore.csproj" Id="f93f49d4-09ba-4d93-a723-fe55956376e8" />
   </Folder>
+  <Folder Name="/11/">
+    <Project Path="TransportationCompany/TransportationCompany.csproj" Id="7455535f-e7ac-4c64-aecd-46d9ab53be1f" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared/Shared.csproj" Id="edcc45d4-a5f2-4e5b-9a71-8c8c2391f7fc" />
   </Folder>
