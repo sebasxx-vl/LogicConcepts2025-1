@@ -47,6 +47,9 @@
   <Folder Name="/16/">
     <Project Path="QuadraticEquations/QuadraticEquations.csproj" Id="17805599-156d-4365-a937-d9f4b46ae460" />
   </Folder>
+  <Folder Name="/17/">
+    <Project Path="Fibonacci/Fibonacci.csproj" Id="bbb1befe-06d9-40d5-9532-2b86ae8920ac" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared/Shared.csproj" Id="edcc45d4-a5f2-4e5b-9a71-8c8c2391f7fc" />
   </Folder>
